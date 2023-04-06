@@ -1,5 +1,5 @@
 # Enigma Encoder - www.101computing.net/enigma-encoder/
-### Modified by Enis Begovic - UNSW course ZZEN9203
+### Modified by Enis B - UNSW ZZEN9203
 
 # ----------------- Enigma Settings -----------------
 ### Starting configuration of the enigma machine
